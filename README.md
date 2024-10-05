@@ -29,5 +29,5 @@ This plan will be updated as I explore new technologies.
 ## Practice:  
 This section will contain repositories where I practice and improve my skills.
 
-* **Tailwind**  
+* **Tailwind** - https://github.com/LanternOfDarkness/tailwind-training-1
 * ...

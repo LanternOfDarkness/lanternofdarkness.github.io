@@ -29,3 +29,9 @@ article {
 article a {
   color: white;
 }
+
+article img {
+  width: 100%;
+  border-radius: 10px;
+  max-width: 600px;
+}
